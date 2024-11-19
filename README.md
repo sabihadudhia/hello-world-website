@@ -1,5 +1,6 @@
 # hello-world-website on AWS
 IU Cloud Programming Project
+
 This project demonstrates how to deploy a simple "Hello, World!" website using AWS and Terraform. The setup includes a scalable, globally distributed architecture with S3, CloudFront, and EC2.
 
 ## Features
