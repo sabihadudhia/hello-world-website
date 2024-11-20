@@ -28,6 +28,7 @@ This project demonstrates how to deploy a simple "Hello, World!" website using A
 3. **Initialize and Deploy**:
    ```bash
     terraform init
+    terraform plan
     terraform apply
 
 4. **Access the Website**:
